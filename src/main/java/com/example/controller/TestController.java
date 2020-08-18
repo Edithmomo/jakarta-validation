@@ -6,8 +6,6 @@ package com.example.controller;
  */
 public class TestController {
 
-    String s;
-
     public String say(){
         return "s";
     }
